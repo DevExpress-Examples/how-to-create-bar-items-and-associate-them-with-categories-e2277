@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/CreateBarsCategories_Ex/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CreateBarsCategories_Ex/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/CreateBarsCategories_Ex/MainPage.xaml) (VB: [MainPage.xaml](./VB/CreateBarsCategories_Ex/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/CreateBarsCategories_Ex/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CreateBarsCategories_Ex/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create bar items and associate them with categories
